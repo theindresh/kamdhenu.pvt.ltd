@@ -1,0 +1,43 @@
+@media(max-width:1024px){
+    /* about section  */
+}    
+
+@media (max-width:991px){
+    /* custom class */
+.text-content{
+    width: 100%;
+}
+
+    /* navbar brand  */
+    .navigation-wrap .navbar-brand img{
+        height: 3.8130rem;
+    }
+    .navigation-wrap{
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.865rem;
+    }
+
+
+
+}
+@media (max-width:767px){
+    /* custom class */
+    h1{
+        font-size: 2.8rem;
+    }
+    h2{
+        font-size: 2rem;
+        line-height: 2.875rem;
+    }
+    .img-res{
+       margin-left: 7rem;
+    }
+
+}
+@media (max-width:330px){
+
+   
+}
